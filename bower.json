@@ -1,0 +1,22 @@
+{
+  "name": "nodewebapplication",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "mohit uprim"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mohituprim/nodejs-express-web-applications",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
